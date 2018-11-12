@@ -1,2 +1,2 @@
 # Basic Matrix Multiplication Cuda
-Matrix multiplication in Cuda using basic approach.
+Matrix multiplication in CUDA using basic approach.
